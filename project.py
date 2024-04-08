@@ -29,4 +29,3 @@ def get_time_stories():
     return latest_stories
 
 print(get_time_stories())
-
